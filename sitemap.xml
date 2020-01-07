@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://www.summaadu.org/</loc>
+  <lastmod>2018-01-22T02:57:01+00:00</lastmod>
+  <priority>1.00</priority>
+  <xhtml:link
+rel="alternate"
+media="only screen and (max-width: 640px)"
+href="http://m.summaadu.org/index.html" />
+</url>
+<url>
+  <loc>http://www.summaadu.org/index.html</loc>
+  <lastmod>2018-01-22T02:57:01+00:00</lastmod>
+  <priority>0.80</priority>
+<xhtml:link
+rel="alternate"
+media="only screen and (max-width: 640px)"
+href="http://m.summaadu.org/index.html" />
+</url>
+<url>
+  <loc>http://www.summaadu.org/about.html</loc>
+  <lastmod>2018-01-22T02:57:01+00:00</lastmod>
+  <priority>0.80</priority>
+<xhtml:link
+rel="alternate"
+media="only screen and (max-width: 640px)"
+href="http://m.summaadu.org/ethos.html" />
+</url>
+<url>
+  <loc>http://www.summaadu.org/ethos.html</loc>
+  <lastmod>2018-01-22T02:57:01+00:00</lastmod>
+  <priority>0.80</priority>
+<xhtml:link
+rel="alternate"
+media="only screen and (max-width: 640px)"
+href="http://m.summaadu.org/ethos.html" />
+</url>
+<url>
+  <loc>http://www.summaadu.org/videos.html</loc>
+  <lastmod>2018-01-22T02:57:01+00:00</lastmod>
+  <priority>0.80</priority>
+<xhtml:link
+rel="alternate"
+media="only screen and (max-width: 640px)"
+href="http://m.summaadu.org/videos.html" />
+</url>
+<url>
+  <loc>http://www.summaadu.org/gallery.html</loc>
+  <lastmod>2018-01-22T02:57:01+00:00</lastmod>
+  <priority>0.80</priority>
+<xhtml:link
+rel="alternate"
+media="only screen and (max-width: 640px)"
+href="http://m.summaadu.org/gallery.html" />
+</url>
+<url>
+  <loc>http://www.summaadu.org/form.html</loc>
+  <lastmod>2018-01-22T02:57:01+00:00</lastmod>
+  <priority>0.80</priority>
+<xhtml:link
+rel="alternate"
+media="only screen and (max-width: 640px)"
+href="http://m.summaadu.org/contact.html" />
+</url>
+<url>
+  <loc>http://www.summaadu.org/contact.html</loc>
+  <lastmod>2018-01-22T02:57:01+00:00</lastmod>
+  <priority>0.80</priority>
+<xhtml:link
+rel="alternate"
+media="only screen and (max-width: 640px)"
+href="http://m.summaadu.org/contact.html" />
+</url>
+<url>
+  <loc>http://www.summaadu.org/latestNews1.html</loc>
+  <lastmod>2018-01-22T02:57:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.summaadu.org/latestNews.html</loc>
+  <lastmod>2018-01-22T02:57:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
