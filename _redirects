@@ -1,9 +1,9 @@
 # Redirects from what the browser requests to what we serve
 
-/index.html            	/
-/about.html  		/about
-/ethos.html            	/ethos
-/videos.html           	/videos
-/gallery.html		/gallery
-/form.html		/form
-/contact.html		/contact
+/index.html            	/		301!
+/about.html  		/about		301!
+/ethos.html            	/ethos		301!
+/videos.html           	/videos		301!
+/gallery.html		/gallery	301!
+/form.html		/form		301!
+/contact.html		/contact	301!
