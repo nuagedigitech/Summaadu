@@ -68,7 +68,7 @@ href="http://m.summaadu.org/gallery.html" />
 <xhtml:link
 rel="alternate"
 media="only screen and (max-width: 640px)"
-href="http://m.summaadu.org/contact.html" />
+href="https://m.summaadu.org/contact.html" />
 </url>
 <url>
   <loc>http://www.summaadu.org/contact.html</loc>
@@ -77,7 +77,7 @@ href="http://m.summaadu.org/contact.html" />
 <xhtml:link
 rel="alternate"
 media="only screen and (max-width: 640px)"
-href="http://m.summaadu.org/contact.html" />
+href="https://m.summaadu.org/contact.html" />
 </url>
 <url>
   <loc>http://www.summaadu.org/latestNews1.html</loc>
